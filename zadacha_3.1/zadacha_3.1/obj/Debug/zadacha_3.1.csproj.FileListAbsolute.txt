@@ -1,0 +1,14 @@
+C:\Users\DERUN\Desktop\HOMEWORK\Мат логика\3 лаба\zadacha_3.1\zadacha_3.1\bin\Debug\zadacha_3.1.exe.config
+C:\Users\DERUN\Desktop\HOMEWORK\Мат логика\3 лаба\zadacha_3.1\zadacha_3.1\bin\Debug\zadacha_3.1.exe
+C:\Users\DERUN\Desktop\HOMEWORK\Мат логика\3 лаба\zadacha_3.1\zadacha_3.1\bin\Debug\zadacha_3.1.pdb
+C:\Users\DERUN\Desktop\HOMEWORK\Мат логика\3 лаба\zadacha_3.1\zadacha_3.1\obj\Debug\zadacha_3.1.csprojAssemblyReference.cache
+C:\Users\DERUN\Desktop\HOMEWORK\Мат логика\3 лаба\zadacha_3.1\zadacha_3.1\obj\Debug\zadacha_3.1.csproj.CoreCompileInputs.cache
+C:\Users\DERUN\Desktop\HOMEWORK\Мат логика\3 лаба\zadacha_3.1\zadacha_3.1\obj\Debug\zadacha_3.1.exe
+C:\Users\DERUN\Desktop\HOMEWORK\Мат логика\3 лаба\zadacha_3.1\zadacha_3.1\obj\Debug\zadacha_3.1.pdb
+D:\Кирилл\Математическая локика и теория алгоритмов\Лабы Сыркина\3\zadacha_3.1\zadacha_3.1\bin\Debug\zadacha_3.1.exe.config
+D:\Кирилл\Математическая локика и теория алгоритмов\Лабы Сыркина\3\zadacha_3.1\zadacha_3.1\bin\Debug\zadacha_3.1.exe
+D:\Кирилл\Математическая локика и теория алгоритмов\Лабы Сыркина\3\zadacha_3.1\zadacha_3.1\bin\Debug\zadacha_3.1.pdb
+D:\Кирилл\Математическая локика и теория алгоритмов\Лабы Сыркина\3\zadacha_3.1\zadacha_3.1\obj\Debug\zadacha_3.1.csprojAssemblyReference.cache
+D:\Кирилл\Математическая локика и теория алгоритмов\Лабы Сыркина\3\zadacha_3.1\zadacha_3.1\obj\Debug\zadacha_3.1.csproj.CoreCompileInputs.cache
+D:\Кирилл\Математическая локика и теория алгоритмов\Лабы Сыркина\3\zadacha_3.1\zadacha_3.1\obj\Debug\zadacha_3.1.exe
+D:\Кирилл\Математическая локика и теория алгоритмов\Лабы Сыркина\3\zadacha_3.1\zadacha_3.1\obj\Debug\zadacha_3.1.pdb
